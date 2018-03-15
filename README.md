@@ -8,9 +8,7 @@ Business Understanding (20 points total).
 
 Data Preparation (10 points total)
 [5 points] Read in your images as numpy arrays. Resize and recolor images as necessary. 
-
 [4 points] Linearize the images to create a table of 1-D image features (each row should be one image).  
-
 [1 points] Visualize several images.
 
 Data Reduction (60 points total)
